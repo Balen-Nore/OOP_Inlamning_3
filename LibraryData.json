@@ -1,0 +1,24 @@
+{
+  "Böcker": [
+    {
+      "Id": 1,
+      "Titel": "30 miljoner",
+      "Författare": {
+        "Id": 1,
+        "Namn": "Balen",
+        "Land": "Sverige"
+      },
+      "Genre": "Drama",
+      "Publiceringsår": 2020,
+      "Isbn": "1234567890123",
+      "Recensioner": [ 5, 4, 5 ]
+    }
+  ],
+  "Författare": [
+    {
+      "Id": 1,
+      "Namn": "Balen",
+      "Land": "Sverige"
+    }
+  ]
+}
